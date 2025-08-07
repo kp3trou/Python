@@ -18,4 +18,4 @@ For supported fusion algorithms and what is Ranx check : https://amenra.github.i
 
 For more information check the source code of both scripts.
 
-All the above dobe for implemented meta-search algorithms and better evaluation.
+All the above cobe is for implemente meta-search algorithms and better scoring evaluation.
