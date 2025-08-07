@@ -12,6 +12,8 @@ based on train dataset of 51 queries and their output results.
 
 The <top_50> files used as input scoring data and after perform fusion from file combsumrrfmax.py present top-10 documnets.
 
+The qrels.text_parsed_2_cleaned_file, is the ground truth knowledge of judges (From CACM corpus) for the scored documents, used at probfuse.py.
+
 For supported fusion algorithms and what is Ranx check : https://amenra.github.io/ranx/fusion/#supported-fusion-algorithms
 
 For more information check the source code of both scripts.
