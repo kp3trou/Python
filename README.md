@@ -1,7 +1,7 @@
 # Python
 Ranx Python Library Fusion Methods Implementation
 
-The script combsumrrfmax.py implements the methods for meta-search ranking : CombSUN, CombMAX, RRF
+The script combsumrrfmax.py implements the methods for meta-search ranking : CombSUM, CombMAX, RRF
 
 The script probfuse.py implements the method ProbFuse for meta-search ranking.
 
